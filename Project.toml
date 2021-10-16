@@ -1,0 +1,20 @@
+name = "ElasticFusionLib_jll"
+uuid = "36eef7af-e89c-5840-8060-ddffb8b08188"
+version = "0.1.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+GLU_jll = "bd17208b-e95e-5925-bf81-e2f59b3e5c61"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+JpegTurbo_jll = "aacddb02-875f-59d6-b918-886e6ef4fbf8"
+GLEW_jll = "bde7f898-03f7-559e-8810-194d950ce600"
+Pangolin_jll = "883017f5-2c5b-5b91-9ffe-927a00b93392"
+SuiteSparse_jll = "bea87d4a-7f5b-5778-9afe-8cc45184846c"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"

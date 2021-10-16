@@ -1,0 +1,10 @@
+[[ElasticFusionLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2db47bc116886faef396e275f8744b9be8901e23"
+libc = "glibc"
+os = "linux"
+
+    [[ElasticFusionLib.download]]
+    sha256 = "bcf987458956b3ac70ec19b082cdd6cbcb9dc6e91ac4931c26422ce9dec2dadd"
+    url = "https://github.com/gzhang8/ElasticFusionLib_jll.jl/releases/download/ElasticFusionLib-v0.1.0+0/ElasticFusionLib.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
